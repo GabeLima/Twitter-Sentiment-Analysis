@@ -1,0 +1,1 @@
+Run the program through main.py. It will prompt you for the stock and the number of days you want to analyze it for (hard limit). Feel free to infer what you want out of this program, read the report for more information.
